@@ -26,4 +26,8 @@ body {
 
 footer {
     margin: 50px 0;
+    background: #212121;
+    color: white;
+    padding: 10px;
+    border-top: 3px solid #07ACEC;
 }
