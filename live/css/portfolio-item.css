@@ -32,5 +32,7 @@ footer {
     border-top: 3px solid #07ACEC;
 }
 
-.youtube-responsive { position: relative; padding-top: 50%; height: 0; overflow: hidden; }
-.youtube-responsive iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+/* Youtube Responsive */
+.videoyoutube{text-align:center;margin:auto;width:100%;}
+.video-responsive{position:relative;padding-bottom:56.25%;height:0;overflow:hidden;}
+.video-responsive iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:0}
